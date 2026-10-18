@@ -1,0 +1,14 @@
+# Compiled binaries
+/bin/
+*.exe
+*.test
+
+# Coverage and profiling
+coverage.out
+*.prof
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+
